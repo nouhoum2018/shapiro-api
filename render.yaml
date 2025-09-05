@@ -5,3 +5,5 @@ services:
     buildCommand: ""
     startCommand: "python app.py"
     plan: free
+    autoDeploy: true
+
